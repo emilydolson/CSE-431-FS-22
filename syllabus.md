@@ -13,15 +13,15 @@ toc_icon: "cog"
 ### Emily Dolson
 - Pronouns: she/her
 - E-mail: dolsonem@cse.msu.edu (course-related contact should be through Piazza)
-- Office: EB 3582 (but I’ll be working from home for now)
+- Office: EB 3582 (although I'm usually in my Biomedical and Physical Science office)
 
-### Acacia Ackles
-- Pronouns: she/they
-- E-mail: alackles@msu.edu (course-related contact should be through Piazza)
+### Austin Ferguson
+
+### Sydney Leither
 
 
-## Office Hours:     
-- Tuesdays 11:40am (after class, in class zoom room or physical room) and by appointment.
+## Help room/office hours:     
+- Monday and Wednesday 4:30pm (after class in STEM building) and by appointment.
 
 ## Textbook: 
 
@@ -31,15 +31,15 @@ There are no required textbooks for this course. If you would like an additional
 
 ## Meeting time: 
 
-T/Th 10:20am-11:40am EST/EDT, Zoom (link sent by e-mail and on Piazza)
+M/W 3:00pm-4:20pm EST/EDT, in person (STEM Building Room 2201) or on Zoom (link sent by e-mail and on Piazza)
 
 ## Credit hours: 3
 
 ## Pre-reqs: 
 
-No course-based pre-requisites. 
+CSE 331 or equivalent knowledge.
 
-It is expected that you are comfortable programming in at least one language (ideally Python or C++) and that you are famliiar with basic ideas related to data structures and analysis of algorithmic efficiency. We will review these topics quickly at the beginning of class.
+It is expected that you are comfortable programming in Python and/or C++ and that you are famliiar with basic ideas related to data structures and analysis of algorithmic efficiency. We will review these topics quickly at the beginning of class.
 
 ## Description: 
 
@@ -47,9 +47,9 @@ Advanced techniques for designing and implementing correct and efficient algorit
 
 ## Course requirements: 
 
-Internet connection, computer, ability to access MediaSpace, Piazza, and Mimir. 
+Internet connection, computer with programming environment on it, ability to access Piazza and Gradescope. 
 
-Note: if you have trouble accessing any of these resources due to geographical restrictions, talk to the instructor and we’ll figure out a solution.
+Note: if you have trouble accessing any resources due to geographical restrictions, talk to the instructor and we’ll figure out a solution.
 
 ## Course delivery format: 
 
@@ -57,9 +57,9 @@ This course will be delivered online for at least the first three weeks of the s
 
 Synchronous meetings will be provided, but students are also allowed to take the course in an asynchronous format. We will use the following platforms:
 - Course website as an index for all course materials
-- [Mimir](https://class.mimir.io) for homework assignments
+- [Gradescope](https://www.gradescope.com) for homework assignments
 - [Piazza](https://piazza.com/class/kjt3tx6quzy3g7) for all discussions outside of class time
-- Zoom (link e-mailed and on Piazza) for all synchronous class sessions and office hours. If you need help using Zoom, see this resource: http://www.cse.msu.edu/Students/Current_Undergrad/UsingZoom.php
+- Zoom (link e-mailed and on Piazza) for all online synchronous class sessions and online office hours. If you need help using Zoom, see this resource: http://www.cse.msu.edu/Students/Current_Undergrad/UsingZoom.php
 
 ## Class Recordings:  
 
@@ -71,11 +71,11 @@ Note that the above restrictions apply only to recordings of class sessions. All
 
 ## Grading: 
 
-70% Homeworks ; 20% Lecture reviews; 10% Take-home final
+60% Homeworks; 20% Lecture reviews; 10% Mid-term; 10% Final
 
 ## Homework assignments
 
-There will be seven homework assignments, each worth 10%-15% of your final grade.  
+There will be seven homework assignments, each worth 10% of your final grade.  
 
 Assignments will consist of programming projects, with occasional mathematical or written questions. You must solve the homework on your own. You may not share code or look at other students’ code. 
 
@@ -85,7 +85,7 @@ That said, asking questions and discussing higher-level concepts on Piazza is hi
 
 **Late Policy:** You will lose 10% off your maximum grade per day late, to a cap of five days (and 50% off), after which it will not be accepted.  
 
-**Extensions:** We do understand that unexpected events befall even the most dedicated student, so we will provide 5 free late days that can be used on a single assignment or spread across assignments without a penalty. Do not waste this extension or feel obligated to use it; the goal is for it to cover all unforeseen circumstances. 
+**Extensions:** We do understand that unexpected events befall even the most dedicated student, so we will provide 5 free late days that can be used on a single assignment or spread across assignments without a penalty. If you need additional extensions beyond this point, talk to us - we are happy to grant them, but want to be able to check in with you and make sure you're not getting off track.
 
 ## Lecture review assignments
 
@@ -99,7 +99,7 @@ These assignments are intended to be quick (assuming you paid attention to the l
 
 **Late Policy:** These assignments may not be turned in late, but your lowest 2 scores will be dropped.
 
-**Extensions:** There are no extnesions on the lecture review assignments.
+**Extensions:** There are no extensions on the lecture review assignments.
 
 ## Grading
 
@@ -130,13 +130,13 @@ We reserve the right to adjust these numbers later in the term if needed.
 
 The goal of this class is for you to **learn how to effectively design and implement algorithms**. If anything is coming in your way of that goal, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
 
-## COVID
+## Course format
 
-Obviously, this semester is starting off on a somewhat uncertain foot. In accordance with MSU policy, we will conduct this class remotely (via Zoom) for the first three weeks. 
+**In-person:** Students registered for the in-person section of this class may attend all class sections in person.
 
-**Online Access:** If MSU chooses to resume in-person classes, we will begin having in person class meetings. In this event, all in-person classes will also be streamed over Zoom, to accomodate any students who are unable or uncomfortable to attend class in person. 
+**Online Synchronous:** Any student in either section may attend the online version of any class section. No explanation or prior notice. 
 
-**Asyncrhonous Option:** We also recognize that synchronous Zoom classes are not the ideal format for many students. Due to the pandemic, we have previously recorded videos covering the entire content of this class. If you would prefer to take the class asynchonously by simply watching these videos and doing the homework, you are welcome to do so.
+**Asynchronous Option:** We recognize that synchronous Zoom classes are not the ideal format for many students. Due to the pandemic, we have previously recorded videos covering the entire content of this class (fair warning though, the dynamic programming ones are a bit rough - maybe watch the synchronous class recordings for those). If you would prefer to take the class asynchonously by simply watching these videos, doing the homework, and taking the exams, you are welcome to do so.
 
 ## Policies:
 
