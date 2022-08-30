@@ -24,9 +24,9 @@ author:
 
 defaults:
   # _weeks
-  - scope:
-      path: "_weeks"
-      type: weeks
+  #- scope:
+  #    path: "_weeks"
+  #    type: weeks
     values:
       layout: single
       author_profile: false
