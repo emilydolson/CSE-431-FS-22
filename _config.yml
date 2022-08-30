@@ -17,16 +17,16 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/emilydolson"      
 
-#collections:
-#  weeks:
-#    output: true
-#    permalink: /schedule/:path/
+collections:
+  weeks:
+    output: true
+    permalink: /schedule/:path/
 
 defaults:
   # _weeks
-  #- scope:
-  #    path: "_weeks"
-  #    type: weeks
+  - scope:
+      path: "_weeks"
+      type: weeks
     values:
       layout: single
       author_profile: false
