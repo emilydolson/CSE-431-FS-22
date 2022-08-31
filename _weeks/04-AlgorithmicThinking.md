@@ -1,6 +1,6 @@
 ---
 title: "Week 4: Algorithmic Thinking"
-date: 2019-09-19 12:00:00
+date: 2021-09-19 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
