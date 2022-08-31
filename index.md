@@ -27,7 +27,7 @@ Below are the week-by-week topics that will be covered.
 - Every friday: weekly lecture review
 - Homework: 9/14, 9/28, 10/12, 10/26, 11/9, 11/23, 12/7
 - Mid-term: Week of October 17th (scheduled individually)
-- Final: Week of December 12th (scheduled invidually)
+- Final: Week of December 12th (scheduled individually)
 
 # Current course content
 
