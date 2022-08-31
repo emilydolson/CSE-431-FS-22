@@ -25,7 +25,7 @@ Below are the week-by-week topics that will be covered.
 # Due dates
 
 - Every friday: weekly lecture review
-- Homework: TBD
+- Homework: 9/14, 9/28, 10/12, 10/26, 11/9, 11/23, 12/7
 - Mid-term: TBD
 - Final: TBD
 
