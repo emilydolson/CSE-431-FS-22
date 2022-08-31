@@ -13,7 +13,7 @@ C++-specific optimizations
 
 ## Wednesday
 
-How to profile your code and make sure your theoretical analysis of which parts are slow is actually correct
+Profiling: How to make sure your theoretical analysis of which parts are slow is actually correct
 
 # Videos
 
