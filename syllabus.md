@@ -53,8 +53,6 @@ Note: if you have trouble accessing any resources due to geographical restrictio
 
 ## Course delivery format: 
 
-This course will be delivered online for at least the first three weeks of the semester. We will re-evaluate after that time. 
-
 Synchronous meetings will be provided, but students are also allowed to take the course in an asynchronous format. We will use the following platforms:
 - Course website as an index for all course materials
 - [Gradescope](https://www.gradescope.com) for homework assignments
