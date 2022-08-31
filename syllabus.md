@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CSE 830 Syllabus
+title: CSE 431 Syllabus
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -73,7 +73,7 @@ Note that the above restrictions apply only to recordings of class sessions. All
 
 ## Homework assignments
 
-There will be seven homework assignments, each worth 10% of your final grade.  
+There will be seven homework assignments, each worth 8.5% of your final grade.  
 
 Assignments will consist of programming projects, with occasional mathematical or written questions. You must solve the homework on your own. You may not share code or look at other students’ code. 
 
