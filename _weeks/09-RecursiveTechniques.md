@@ -1,6 +1,6 @@
 ---
 title: "Week 9: Recursive Techniques"
-date: 2019-10-24 12:00:00
+date: 2021-10-24 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
