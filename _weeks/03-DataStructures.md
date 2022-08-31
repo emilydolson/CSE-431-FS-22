@@ -1,13 +1,19 @@
 ---
-title: "Week 2: Data Structures"
-date: 2019-01-17 12:00:00
+title: "Week 3: Data Structures"
+date: 2021-09-12 12:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
+# Topics
+
+Review of common data structures in programming problems (arrays, various flavors of BST, hash tables, heaps). We'll do some practice and discussion in-class.
+
 # Videos
 
-## For Tuesday
+Here are the videos that we previously recorded for this part of the class. Feel free to watch them as a quick refresher or if you missed class.
+
+## For Monday
 
 ### Intro to data structures
 
@@ -21,7 +27,7 @@ date: 2019-01-17 12:00:00
 
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_0txc9lax&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_angto57d" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 
-## For Thursday
+## For Wednesday
 
 ### Intro to hashtables
 
@@ -32,11 +38,11 @@ date: 2019-01-17 12:00:00
 
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_abz6ri1q&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_iior4tuz" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 
-# Optional videos
+# Bonus videos
 
 ## Testing the importance of good hash functions 
 
-(we'll probably do this as an in-class activity on Thursday, so this is really just here as a reference in case you want to review it - I don't recommend watching it before class)
+(we'll probably do this as an in-class activity on Wednesday, so this is really just here as a reference in case you want to review it - I don't recommend watching it before class)
 
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_8tj8uqd7&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_dj2yydfi" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
 
@@ -46,14 +52,12 @@ Code for this video is available [here](https://github.com/emilydolson/CSE-830-S
 
 For more details on the Birthday Paradox, check out [this blog post/video](https://betterexplained.com/articles/understanding-the-birthday-paradox/)
 
-# In class: 
-Common data structures in programming problems
 
 # Out: 
 
-Lecture review assignment #2
+Lecture review assignment #3, Homework #2 (due 9/28)
 
 
 # Due: 
 
-Lecture review assignment #2
+Lecture review assignment #3, Homework #1
