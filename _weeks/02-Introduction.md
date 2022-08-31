@@ -5,7 +5,7 @@ date: 2021-09-05 12:00:00
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
-# In Class
+# Topics
 
 ## Monday - No Class
 
