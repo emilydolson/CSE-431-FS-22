@@ -5,6 +5,8 @@ date: 2021-10-17 00:00:00
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
+**MIDTERM WEEK! MAKE SURE TO SCHEDULE YOUR MIDTERM!**
+
 # Topics
 
 ## Monday
