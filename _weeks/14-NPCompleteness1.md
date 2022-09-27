@@ -17,6 +17,8 @@ Identifying NP-Complete Problems
 
 # Videos
 
+Here are the videos that we previously recorded for this part of the class. Feel free to watch them as a quick refresher or if you missed class.
+
 ## For Monday
 
 ### [P, NP, and NP-Completeness](https://mediaspace.msu.edu/media/P%2C+NP%2C+and+NP-Complete+Problems/1_nsopui43)
